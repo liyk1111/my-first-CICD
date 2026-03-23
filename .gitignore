@@ -1,4 +1,4 @@
-# 过滤所有CRF文件（核心规则）
+# 过滤所有CRF文件（核心规则 - OK）
 *.crf
 # test fetch
 
